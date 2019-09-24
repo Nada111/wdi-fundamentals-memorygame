@@ -8,7 +8,7 @@
  	if (cardsInPlay[0]=== cardsInPlay[1]) {
   console.log("You found a match!");
 } else {
-  alert("Sorry, try again.");
+  alertß("Sorry, try again.");
 }
  }
 
